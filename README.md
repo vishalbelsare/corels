@@ -28,7 +28,7 @@ This framework is a novel alternative to CART and other decision tree methods.
 
 CORELS is a custom branch-and-bound algorithm for optimizing rule lists.
 
-**Web UI can be found at:** https://corels.eecs.harvard.edu/
+**Web UI can be found at:** https://corels.cs.ubc.ca/corels
 
 **R Package can be found at:** https://cran.r-project.org/package=corels
 
